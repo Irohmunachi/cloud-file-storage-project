@@ -55,9 +55,6 @@ bash deploy.sh
 ### Upload List Success
 ![Upload Success](screenshots/upload-list-success.png)
 
-### GitHub Run Azure Storage
-![Git Hub Run](screenshots/github-run-azure-storage.png)
-
 ### GitHub Azure Storage
 ![GitHub Azure Storage](screenshots/github-storage-job-success.png)
 
