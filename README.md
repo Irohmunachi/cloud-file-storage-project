@@ -21,8 +21,11 @@ This project is a simple cloud-based file storage system built using Bash script
 
 ## Deployment
 Run:
+
 ```bash
 bash deploy.sh
+
+```
 
 ## Screenshots
 ### Azure CLI
@@ -49,10 +52,10 @@ bash deploy.sh
 ### List Success
 ![List Success](screenshots/list-success.png)
 
-### Upload Success
+### Upload List Success
 ![Upload Success](screenshots/upload-list-success.png)
 
-### GitHub Run Azure
+### GitHub Run Azure Storage
 ![Git Hub Run](screenshots/github-run-azure-storage.png)
 
 ### GitHub Azure Storage
